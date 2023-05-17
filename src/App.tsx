@@ -57,6 +57,7 @@ const GlobalStyle = createGlobalStyle`
     font-weight: 300;
     font-family: 'Karla', sans-serif;
     color: black;
+    background-color: #efefef;
     /* line-height: 1.2; */
   }
   a {
